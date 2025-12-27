@@ -1,6 +1,5 @@
 package com.example.task.services.impl;
 
-import com.example.task.domain.entities.Task;
 import com.example.task.domain.entities.TaskList;
 import com.example.task.repositories.TaskListRepository;
 import com.example.task.services.TaskListService;
